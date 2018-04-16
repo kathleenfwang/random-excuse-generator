@@ -1,0 +1,60 @@
+body { 
+  font-family: Tahoma;
+  background-image: url("grid.png"); 
+  background-size: cover;
+ padding: 10px;
+ 
+  
+}
+
+h1 {
+  font-family: "Amatic SC";
+  font-size: 40px;
+  color: cornflowerblue;
+}
+
+ 
+#license { 
+  
+  font-size: 10px;
+  
+  
+}
+
+#excuse_btn { 
+  margin: 30px;
+  margin-left: 0px;
+  background-color:cornflowerblue;
+  color:white;
+   
+  padding: 10px;
+  border-radius: 5px;
+}
+a { 
+  text-decoration: none; 
+  color: lightblue;
+  
+}
+
+button:hover{ 
+  box-shadow:  5px 10px 18px #888888;
+  
+}
+button {
+  border:3px solid cornflowerblue;
+}
+
+#excuses {
+  font-family: "Amatic SC";
+  font-size: 35px;
+  padding: 30px;
+  
+}
+
+footer { 
+  position:fixed;
+  bottom: 0;
+  text-align:center;
+  width: 100%;
+  
+}
